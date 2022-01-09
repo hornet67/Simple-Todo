@@ -1,0 +1,16 @@
+body{
+    text-decoration: none;
+}
+
+.decoration{
+    padding: 20px;
+    margin-top: 150px;
+    margin-left: 400px;
+    text-align: center;
+   width: 500px;
+    background-color: aquamarine;
+}
+
+li{
+    padding: 3px;
+}
